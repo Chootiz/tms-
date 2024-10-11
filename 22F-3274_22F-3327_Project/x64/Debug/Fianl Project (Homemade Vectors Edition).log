@@ -1,0 +1,56 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Fianl Project (Homemade Vectors Edition).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  AssemblyInfo.cpp
+  22F-3274_22F-3327_Main_Code.cpp
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(154,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(154,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(155,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(155,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(161,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(161,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(165,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(165,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(171,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(171,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(175,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(175,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Distance.h(203,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Driver_Service.h(103,19): warning C4101: 'balance': unreferenced local variable
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Driver_Service.h(103,38): warning C4101: 'rating': unreferenced local variable
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_RatingGiver.h(141,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_RatingGiver.h(147,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Customer_Form.h(757,946): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Customer_Form.h(760,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Customer_Form.h(822,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Driver_Form.h(537,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Driver_Form.h(538,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_LogIn.h(159,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  22F-3274_22F-3327_Main_Implementation.cpp
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(109,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(113,26): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(142,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(143,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(197,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(198,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(218,12): warning C4101: 'z': unreferenced local variable
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(217,12): warning C4101: 'k': unreferenced local variable
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(394,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(399,62): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(641,6): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(643,6): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(647,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  22F-3274_22F-3327_Viktor.cpp
+  Generating Code...
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<float>::operator[]': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<Vehicle>::operator[]': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<Customer>::operator[]': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<Driver>::operator[]': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<Order>::operator[]': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Main_Implementation.cpp(509): warning C4715: 'TMS::FindID': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<Vehicle>::operator[]': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<Customer>::operator[]': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<Driver>::operator[]': not all control paths return a value
+C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\22F-3274_22F-3327_Viktor.cpp(73): warning C4715: 'Viktor<Order>::operator[]': not all control paths return a value
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Fianl Project (Homemade Vectors Edition).vcxproj -> C:\Users\muzam\Desktop\22F-3274_22F-3327_Project\x64\Debug\22F-3274_22F-3327_Project.exe
